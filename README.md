@@ -1,14 +1,16 @@
 Perform geometric queries on **neural implicit surfaces** like **ray casting**, **intersection testing**, **fast mesh extraction**, **closest points**, and **more**. Works on _general_ neural implicit surfaces (i.e. does not require a fitted signed distance function). Implemented in JAX.
 
-![method teaser](https://github.com/nmwsharp/neural-implicit-queries/blob/main/assets/images/spelunking_teaser_big.jpg)
+<p align="center">
+<img src="https://github.com/nmwsharp/neural-implicit-queries/blob/main/assets/images/spelunking_teaser_big.jpg" width="600"> 
+</p>
+<p align="center"> 
+  <a href=https://nmwsharp.com/research/interval-implicits/>[project page]</a> &nbsp;&nbsp; 
+  <a href=https://nmwsharp.com/media/papers/interval-implicits/SpelunkingTheDeep.pdf>[PDF (4MB)]</a>  &nbsp;&nbsp;
+  <b>Authors:</b> <a href=https://nmwsharp.com/>Nicholas Sharp</a> & <a href=https://www.cs.toronto.edu/~jacobson/>Alec Jacobson</a>
+<p align="center">
 
-This code accompanies the paper "Spelunking the Deep: Guaranteed Queries for General Neural Implicit Surfaces via Range Analysis", published at SIGGRAPH 2022 (recognized with a Best Paper Award!).
 
-
-- [Project page](https://nmwsharp.com/research/interval-implicits/)
-- [PDF (4MB)](https://nmwsharp.com/media/papers/interval-implicits/SpelunkingTheDeep.pdf)
-
-- Authors: [Nicholas Sharp](https://nmwsharp.com/) and [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/)
+This code accompanies the paper **"Spelunking the Deep: Guaranteed Queries for General Neural Implicit Surfaces via Range Analysis"**, published at **SIGGRAPH 2022** (recognized with a Best Paper Award!).
 
 ---
 
