@@ -51,9 +51,11 @@ Some standard Python packages are needed, all available in package managers. A c
 
 This script provides an interactive GUI allowing the exploration of most of the queries described in this work.
 
-Main file: `main_spelunking.py`
+Run like:
 
-Run like `python src/main_spelunking.py sample_inputs/fox.npz`
+```
+python src/main_spelunking.py sample_inputs/fox.npz
+```
 
 This application can run most of the algorithms described in this work. Use the buttons on the right to explore them and visualize the output.
 
